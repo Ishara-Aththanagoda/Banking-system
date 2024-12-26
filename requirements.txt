@@ -1,0 +1,6 @@
+Flask
+Flask-JWT-Extended
+Flask-PyMongo
+cryptography
+pytest
+Flask-Bcrypt
