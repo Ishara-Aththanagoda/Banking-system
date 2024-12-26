@@ -2,6 +2,9 @@ This is a comprehensive Banking System Application built using React.js for the 
 
 Technologies Used:
 Frontend: React.js for building a dynamic and responsive user interface.
+
 Backend: Python Flask for handling API requests and business logic.
+
 Database: MongoDB for scalable and efficient data storage.
+
 Security: JWT for secure user sessions and bcrypt for password hashing.
